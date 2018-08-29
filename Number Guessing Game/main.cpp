@@ -16,7 +16,7 @@ int main()
 		std::cin >> input;
 		std::cout << "Is this your number " << guess << std::endl;
 		if (guess == input)
-		{
+		{ 
 			std::cout << 
 		}
 		
