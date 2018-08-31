@@ -23,7 +23,7 @@ int main()
 		if (input < 100)
 		{
 			int random_integer;
-			std::cout << "Is your number less than 42" << std::endl;
+			std::cout << "Is your number less than?" << std::endl;
 		}
 		if (guess > 100)
 		{
