@@ -16,11 +16,19 @@ int main()
 		std::cin >> input;
 		std::cout << "Is this your number " << guess << std::endl;
 		if (guess == input)
-		{ 
-			std::cout << 
+		{
+			int index = 0; index < 100; index++;
+			int rand();
 		}
-		
+		if (input < 100)
+		{
+			int random_integer;
+			std::cout << "Is your number less than 42" << std::endl;
+		}
+		if (guess > 100)
+		{
 
+		}
 	}
 	 
 
