@@ -17,7 +17,6 @@ int main()
 		std::cout << "Is this your number " << guess << std::endl;
 		if (guess == input)
 		{
-			int index = 0; index < 100; index++;
 			int rand();
 		}
 		if (input < 100)
